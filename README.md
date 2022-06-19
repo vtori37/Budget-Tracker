@@ -1,22 +1,10 @@
 # Budget-Tracker
-
-AS AN avid traveler
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling 
-
-GIVEN a budget tracker without an internet connection
-WHEN the user inputs an expense or deposit
-THEN they will receive a notification that they have added an expense or deposit
-
-WHEN the user reestablishes an internet connection
-THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
-
 ## Description 
-<!-- ![alt text](./assets/Images/.png) -->
+![alt text](./assets/Images/Budget_Tracker.png)
 ![MIT Badge](https://img.shields.io/badge/License-MIT-green)
 
 ## Description
-This application creates an employee information and profile HTML webpage. 
+This application chelps the user to keep track of their expenses. If the user looses connection and attempts to log in a transaction, their transaction will still be recorded.
 
 ## Table of Contents 
 * [Website](#Website)
@@ -39,18 +27,18 @@ To access the application
 
 ## Usage
 This project can be used to create company profile pages.
-
-## Test
-Here is a demonstration of the application.
-
-
 ## Contributors
 
 
 ## Technology
 * HTML5
 * CSS 
-* JS
+* JavaScript
+* Node.js
+* MongoDB
+* Mongoose
+* Express.js
+* Heorku
 
 
 ## License 
@@ -65,4 +53,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ***
 
 ### Questions
-If you have any questions or concerns regarding this project, feel free to reach out to Victoria Rice at vrice360@gmail.com
+If you have any questions or concerns regarding this project, feel free to reach out to Victoria Rice at vrice360@gmail.com.
