@@ -1,6 +1,6 @@
 # Budget-Tracker
 ## Description 
-![alt text](./assets/Images/Budget_Tracker.png)
+![alt text](./assets/Images/Budget-Tracker.png)
 ![MIT Badge](https://img.shields.io/badge/License-MIT-green)
 
 ## Description
@@ -20,7 +20,7 @@ This application chelps the user to keep track of their expenses. If the user lo
 
 ## Website
 Here is a link to the live website:
-[Budget-Tracker](https://github.com/vtori37/Budget-Tracker)
+[Budget-Tracker](https://budget-10.herokuapp.com/)
 
 ## Installation 
 To access the application
