@@ -3,13 +3,11 @@
 ![alt text](Budget-Tracker.png)
 
 ## Description
-This application chelps the user to keep track of their expenses. If the user looses connection and attempts to log in a transaction, their transaction will still be recorded.
+This application helps the user to keep track of their expenses. If the user loses connection and attempts to log in a transaction, their transaction will still be recorded. 
 
 ## Table of Contents 
 * [Website](#Website)
-* [Installation](#Installation)
 * [Usage](#Usage)
-* [Test](#Test)
 * [Contributors](#contributors)
 * [Technology](#technology)
 * [License](license)
@@ -18,14 +16,11 @@ This application chelps the user to keep track of their expenses. If the user lo
 ***
 
 ## Website
-Here is a link to the live website:
+If you would like to test out the application, click this link to the live website:
 [Budget-Tracker](https://budget-10.herokuapp.com/)
 
-## Installation 
-To access the application
-
 ## Usage
-This project can be used to create company profile pages.
+This application can but used to keep track of transactions both on and offline. 
 
 ## Contributors
 [Kevin Long](https://github.com/KLong75)
