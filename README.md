@@ -1,6 +1,6 @@
 # Budget-Tracker
 ## Description 
-![alt text](./assets/Images/Budget-Tracker.png)
+![alt text](Budget-Tracker.png)
 ![MIT Badge](https://img.shields.io/badge/License-MIT-green)
 
 ## Description
