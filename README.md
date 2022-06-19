@@ -1,7 +1,6 @@
 # Budget-Tracker
 ## Description 
 ![alt text](Budget-Tracker.png)
-![MIT Badge](https://img.shields.io/badge/License-MIT-green)
 
 ## Description
 This application chelps the user to keep track of their expenses. If the user looses connection and attempts to log in a transaction, their transaction will still be recorded.
@@ -27,8 +26,9 @@ To access the application
 
 ## Usage
 This project can be used to create company profile pages.
-## Contributors
 
+## Contributors
+[Kevin Long](https://github.com/KLong75)
 
 ## Technology
 * HTML5
