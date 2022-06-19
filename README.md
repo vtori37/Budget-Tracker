@@ -38,7 +38,7 @@ This project can be used to create company profile pages.
 * MongoDB
 * Mongoose
 * Express.js
-* Heorku
+* Heroku
 
 
 ## License 
